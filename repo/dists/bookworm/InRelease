@@ -2,26 +2,26 @@
 Hash: SHA512
 
 Codename: bookworm
-Date: Fri, 01 May 2026 00:13:20 UTC
+Date: Fri, 01 May 2026 00:37:16 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
 MD5Sum:
- 9794ca95a0fd1858a6ce37f143ff3030 452 main/binary-arm64/Packages
- edc9b33faa37182369709746894f057a 330 main/binary-arm64/Packages.gz
+ 729d01d67b999365933538411f159fc1 452 main/binary-arm64/Packages
+ 2911e99320c4fd41eb1e708f6a79a6d5 329 main/binary-arm64/Packages.gz
  4070270a067a8fe21017e116decb6cbd 83 main/binary-arm64/Release
 SHA1:
- 3f76c951b822b84c3934d171a388812603dbd5af 452 main/binary-arm64/Packages
- 584b68a1822fd6a881e41b7ca51ea3da330e9304 330 main/binary-arm64/Packages.gz
+ 4012a1ee5b03e257d914b6cb3dccd36e54fccecd 452 main/binary-arm64/Packages
+ 8b692c50154068d3b126ca211fed3efc732093e8 329 main/binary-arm64/Packages.gz
  1a6a5fea096ee618518b1030011139d5daf68610 83 main/binary-arm64/Release
 SHA256:
- 3ee261af9f92af6712ad708e1c8406fa809a625dab61819cbe8f8400cee67a92 452 main/binary-arm64/Packages
- 3e71ae22a1f0000b5e3f30d62f258178f74d66852b5afa9f4b9ab61225e05218 330 main/binary-arm64/Packages.gz
+ f9c44195601ecf912d2c343abb0463f5663a6f8231cd7acbdcca86b9ff843766 452 main/binary-arm64/Packages
+ bd42f1165ca3a2ab1c690b31c2354717c4cb9b518a33668b033ad08f2d788ec5 329 main/binary-arm64/Packages.gz
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafPwIAAKCRB9HzOAxjsk
-bd4zAQDjJ6pWnZho9MAwaKWFHWhuOEMqA8uPhCfJNyXfk6/uWgD/cVgGcGzVCZYW
-GAX33iLIz6R6c4RATqq3IH7tuqgPHgo=
-=vMA5
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafP1vAAKCRB9HzOAxjsk
+bdisAP45+/psmFumbAgaovU+/dpyIX6hJ5CKKRthZE3ZXdGUfQD/bTKiu94Mq+Jc
+N7qkyJZGgBZ6w7Fn/+PQy0WVYjVvogg=
+=edNp
 -----END PGP SIGNATURE-----

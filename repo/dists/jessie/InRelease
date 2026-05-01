@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: jessie
-Date: Fri, 01 May 2026 00:13:22 UTC
+Date: Fri, 01 May 2026 00:37:19 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -20,8 +20,8 @@ SHA256:
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafPwIwAKCRB9HzOAxjsk
-bbriAP9UmFJA4gWSpa4ND0a+EI2gS9d+qoxnIvBBpYgAI6bquAEA60RWOdcEkbz+
-jBuAYLYx56BMyq/wwqCRSLAgmds3PgA=
-=CPJa
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafP1vwAKCRB9HzOAxjsk
+bVR4AP48Y0AU0Bs0F0R11vhwn9LhgrsHKP8YG5cUGRYnD3rx5QD/bIX9M18gqfoE
+3bpBjq6JorYzBU36M3BwvkZHqSFlOAQ=
+=gIrF
 -----END PGP SIGNATURE-----

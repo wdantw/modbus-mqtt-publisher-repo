@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: bullseye
-Date: Fri, 01 May 2026 00:13:20 UTC
+Date: Fri, 01 May 2026 00:37:16 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -20,8 +20,8 @@ SHA256:
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafPwIQAKCRB9HzOAxjsk
-bfY7AP9BeeS8wOfWC7jtlqatwwKoROfvUF5vBWAsCIL+pXU0uwEAo/6w3f1odc0q
-/YsUpxFhvqtsKZCK1u7LJVwBDnGOjQk=
-=e9R6
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafP1vQAKCRB9HzOAxjsk
+ba30AQDn2v/aC7SZ9vjDHvMefyE3CSHDwNVgEa+J+H7RnUQI1gEA5EbdE+yUsRGF
+e4d1g1Uqwi/qRHypHpbWj12+KUjk4AU=
+=ipbp
 -----END PGP SIGNATURE-----

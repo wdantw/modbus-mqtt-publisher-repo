@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: buster
-Date: Fri, 01 May 2026 00:13:21 UTC
+Date: Fri, 01 May 2026 00:37:17 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -20,8 +20,8 @@ SHA256:
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafPwIQAKCRB9HzOAxjsk
-bTdaAP9tcwljAtekolbr7VaXXjix+0yNr2B3GB02oUTAh/T0+AD9ECGsnRJDjw5X
-03ptm2QQZuNLOBEhF1uyU98R+KjW3gE=
-=s3rj
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafP1vgAKCRB9HzOAxjsk
+beRGAP42q5M2x7JJeYGx5zA4o2Ut4oWwtXT9+BwfcXMIjAOFrAEA3+j0xTRZZ1aX
+Ef0AhcjiUcsD+bFn8NnptIuy3KPeewg=
+=+FZE
 -----END PGP SIGNATURE-----
