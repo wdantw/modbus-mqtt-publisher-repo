@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: jammy
-Date: Fri, 01 May 2026 00:37:20 UTC
+Date: Fri, 01 May 2026 09:14:27 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -20,8 +20,8 @@ SHA256:
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafP1wAAKCRB9HzOAxjsk
-bQYuAPwPReSo/vti+QQ2dJ/KergEVRGng3+0/HffqbesG75DjAD/ahWqAdelhJ4z
-5pHIBFsmcl2k0jfdEPbxXHylkLkxfQA=
-=UJre
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafRu8wAKCRB9HzOAxjsk
+bccLAP0UEhbtvIxIDhV8VJewDMKg+u5gWit53SCEKY8AAJQKGgD+P1Qq7IZXJqGD
+p5rnCRC7u2bZsvGyEZGx8J8OhzoBWgk=
+=kKkr
 -----END PGP SIGNATURE-----

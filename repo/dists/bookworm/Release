@@ -1,17 +1,17 @@
 Codename: bookworm
-Date: Fri, 01 May 2026 00:37:16 UTC
+Date: Fri, 01 May 2026 09:14:23 UTC
 Architectures: arm64
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
 MD5Sum:
- 729d01d67b999365933538411f159fc1 452 main/binary-arm64/Packages
- 2911e99320c4fd41eb1e708f6a79a6d5 329 main/binary-arm64/Packages.gz
+ b5906aa9148ae2a1001fa801e95d9128 452 main/binary-arm64/Packages
+ 782802e99c66238477a38f4681f8154b 330 main/binary-arm64/Packages.gz
  4070270a067a8fe21017e116decb6cbd 83 main/binary-arm64/Release
 SHA1:
- 4012a1ee5b03e257d914b6cb3dccd36e54fccecd 452 main/binary-arm64/Packages
- 8b692c50154068d3b126ca211fed3efc732093e8 329 main/binary-arm64/Packages.gz
+ 26677fd2c9f63915fbc8b547cbe99558ca082b63 452 main/binary-arm64/Packages
+ 9f8108143a12b884a061d4071e18619644a0b0c7 330 main/binary-arm64/Packages.gz
  1a6a5fea096ee618518b1030011139d5daf68610 83 main/binary-arm64/Release
 SHA256:
- f9c44195601ecf912d2c343abb0463f5663a6f8231cd7acbdcca86b9ff843766 452 main/binary-arm64/Packages
- bd42f1165ca3a2ab1c690b31c2354717c4cb9b518a33668b033ad08f2d788ec5 329 main/binary-arm64/Packages.gz
+ 882ca9d4e297fabd7996dd65b74d8bbb21a63d58528dc56266eb111d6568a6e5 452 main/binary-arm64/Packages
+ 18d835ecc0d653d2b8f3e2f4816bc3a1b6e04f62ca54cbc4a683f97270d1fc10 330 main/binary-arm64/Packages.gz
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
