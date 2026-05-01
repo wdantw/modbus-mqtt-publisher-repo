@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: wheezy
-Date: Fri, 01 May 2026 13:40:57 UTC
+Date: Fri, 01 May 2026 13:52:23 UTC
 Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -29,8 +29,8 @@ SHA256:
  1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafStaQAKCRB9HzOAxjsk
-bRknAQDxlls17L/v6Ggvyd7XrmrtmrdImKOtX8lOXT/oRFyQvQD9EH+p9a+Iqg9x
-DUh9nO1b0ZZFyHYQY9WiOFu0dalYFgY=
-=TYoI
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafSwGAAKCRB9HzOAxjsk
+bWB3AP4wxJsy+YF9kCbtbx1pfNz7cT1BpT7hjskxCKmBrutqSwD+Mo5CM+byG53c
+YJ6apCdyXflNApQwbh0Vi0z1qeSPtg0=
+=veCg
 -----END PGP SIGNATURE-----

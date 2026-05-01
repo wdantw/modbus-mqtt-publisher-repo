@@ -1,14 +1,14 @@
 Package: modbus-mqtt-publisher
-Version: 1.4.10
+Version: 1.4.11
 Architecture: armhf
 Installed-Size: 90177
 Maintainer: Dant <kloundant@mail.ru>
 Priority: optional
 Section: utils
-Filename: pool/main/m/modbus-mqtt-publisher/modbus-mqtt-publisher_1.4.10_armhf.deb
-Size: 40907852
-SHA256: 4e9629a11ab9e38287bfe6bca6e707b29a9da0f580a3dda8a8fe7d2d3a3e722f
-SHA1: 0efe7f371cc1a16092e24d7afa8afa8a23189ee5
-MD5sum: 0f5a54be65b97bd9f3c65ddebcd5bca3
+Filename: pool/main/m/modbus-mqtt-publisher/modbus-mqtt-publisher_1.4.11_armhf.deb
+Size: 40907858
+SHA256: 75384f561a0f3d86b4023a08106002f3ee1a128bdb2c081257976cc06bfb6451
+SHA1: 161237dce7fdfb78ea9a907bf2c028d175a82813
+MD5sum: b1924f0061d3cbdb46e890bae406ef51
 Description: mqtt modbus gateway
 

@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: focal
-Date: Fri, 01 May 2026 13:40:59 UTC
+Date: Fri, 01 May 2026 13:52:26 UTC
 Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -29,8 +29,8 @@ SHA256:
  1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafStawAKCRB9HzOAxjsk
-bQyaAP4j7H94djCz31R/Sy7+eUbKLeWaCNjyMcgSn7mpO6auNwD/Z3Aw1xUB1Zq9
-eGpY9kYXjALYyY/bdN7h8KpQthxLpgY=
-=Ig1I
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafSwGgAKCRB9HzOAxjsk
+bTJdAQCNvwiPf1lS01HK7seinWJksmsk+eqBiJMe6J+IRo33HAD/WzPxSH5oaE5x
+vjs1D4Xoc8BTsL37Ey1nD+DIVB6rsQ4=
+=iZxJ
 -----END PGP SIGNATURE-----

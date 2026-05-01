@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: noble
-Date: Fri, 01 May 2026 13:40:58 UTC
+Date: Fri, 01 May 2026 13:52:25 UTC
 Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -29,8 +29,8 @@ SHA256:
  1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafStawAKCRB9HzOAxjsk
-bQEtAP9L3iP5fE6Dr/CABHpbnmhD2M+5ft+3XB1nhhNlPH32eAEAgQ3rjxOwX585
-Q5ZskSOcN2M6SWAvG2CSd79DMLg+qww=
-=ilLe
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafSwGQAKCRB9HzOAxjsk
+bRvSAQCl78D6JztZOmg09bBzadRZyPrZRI1CEK8epS8yIf+MhgEAsT/CVDaj4ROc
+FmkS1KssXHY5nizvEud3HXAvu9ssvgk=
+=roRG
 -----END PGP SIGNATURE-----

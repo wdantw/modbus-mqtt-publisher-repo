@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: stretch
-Date: Fri, 01 May 2026 13:40:55 UTC
+Date: Fri, 01 May 2026 13:52:22 UTC
 Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -29,8 +29,8 @@ SHA256:
  1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafStaAAKCRB9HzOAxjsk
-bZLIAQCRKGSck790r2CyQD9nv2UbCDiOLHXm5wn22bfP7YufqQEAnFynW6GOR3Bt
-8kCsJcOOLZWCVZxN2TNZ6f8HLJuRVgU=
-=FmeO
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafSwFgAKCRB9HzOAxjsk
+bXfZAQCB6SubImwuZg6YrOhG8NM7JZmltJNfnOxP9gEuIMbv5QEAzRSCC6rm/Hu4
+wS0aDw2e8bCn584xgLeD6eSdv0WZxAo=
+=riGi
 -----END PGP SIGNATURE-----
