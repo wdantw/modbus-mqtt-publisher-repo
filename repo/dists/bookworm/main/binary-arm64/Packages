@@ -1,14 +1,14 @@
 Package: modbus-mqtt-publisher
-Version: 1.4.9
+Version: 1.4.10
 Architecture: arm64
 Installed-Size: 101442
 Maintainer: Dant <kloundant@mail.ru>
 Priority: optional
 Section: utils
-Filename: pool/main/m/modbus-mqtt-publisher/modbus-mqtt-publisher_1.4.9_arm64.deb
-Size: 40351632
-SHA256: 51616b4fc5a08d688a48d88ce41a1691717eb9fac05435263dff2b2639f005c7
-SHA1: e6b38a9c1403839903eabf6d69a93c9863284646
-MD5sum: 718fb23ee289133224e314a9de4999d6
+Filename: pool/main/m/modbus-mqtt-publisher/modbus-mqtt-publisher_1.4.10_arm64.deb
+Size: 40351620
+SHA256: b497278a4e61ca3666d7af40069fb197f5d9d6795b0af3a15f5322fcef641db5
+SHA1: 3cc9f11a50395d9a2cd8682dfcc85f4fc0f5cdb4
+MD5sum: d753935b9aeca748f27afdb3da9086df
 Description: mqtt modbus gateway
 

@@ -2,26 +2,35 @@
 Hash: SHA512
 
 Codename: noble
-Date: Fri, 01 May 2026 09:14:28 UTC
-Architectures: arm64
+Date: Fri, 01 May 2026 13:40:58 UTC
+Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  4070270a067a8fe21017e116decb6cbd 83 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ eea452576d36d19c3ff562be94690d36 83 main/binary-armhf/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  1a6a5fea096ee618518b1030011139d5daf68610 83 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ fd1614a8bc4f63b3c04ae9c7153ffa019b402bd7 83 main/binary-armhf/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
  88c85d75bfdb5e93bf17b3808dd05c4eba54a504a706caa9d808a2c739515176 83 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafRu9AAKCRB9HzOAxjsk
-bYSsAQDa0ea97ttnpHFSjPj3JvpxJjIsqnhkBfvJ10MRAc0t9QEA5zJz3j9ERWKT
-VeGlYvDbr7/O64HT/Vu7kiA/5BeSbAU=
-=F9QG
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafStawAKCRB9HzOAxjsk
+bQEtAP9L3iP5fE6Dr/CABHpbnmhD2M+5ft+3XB1nhhNlPH32eAEAgQ3rjxOwX585
+Q5ZskSOcN2M6SWAvG2CSd79DMLg+qww=
+=ilLe
 -----END PGP SIGNATURE-----
