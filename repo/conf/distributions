@@ -3,7 +3,6 @@ Codename: trixie
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -11,7 +10,6 @@ Codename: bookworm
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -19,7 +17,6 @@ Codename: bullseye
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -27,7 +24,6 @@ Codename: buster
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -35,7 +31,6 @@ Codename: stretch
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -43,7 +38,6 @@ Codename: jessie
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -51,7 +45,6 @@ Codename: wheezy
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -59,7 +52,6 @@ Codename: jammy
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -67,7 +59,6 @@ Codename: noble
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -75,6 +66,5 @@ Codename: focal
 Architectures: arm64 armhf
 Components: main
 SignWith: B501B819D5859181866188197D1F3380C63B246D
-Limit: 10
 
 

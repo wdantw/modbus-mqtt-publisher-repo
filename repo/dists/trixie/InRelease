@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: trixie
-Date: Fri, 01 May 2026 13:52:19 UTC
+Date: Fri, 01 May 2026 14:49:50 UTC
 Architectures: arm64 armhf
 Components: main
 Description: wdantw/modbus-mqtt-publisher-repo
@@ -29,8 +29,8 @@ SHA256:
  1d0251119051203713230e118fcf0d1a5a5db0d484d4e3e98aa111b96c352a42 83 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafSwEwAKCRB9HzOAxjsk
-beQnAP94HvYwF8k9lk433wcnbpynXkeRpl6VHsx3bYgc2yGoKwEAr8xwi+ngUcu1
-DmesajEtrHEDawQNJM8cXMv4ASDvjAE=
-=TdJD
+iHUEARYKAB0WIQS1AbgZ1YWRgYZhiBl9HzOAxjskbQUCafS9jwAKCRB9HzOAxjsk
+bcotAQCXi9u6li1jX0w3nbQzntWjrgUZh1fsSygGgucFRTt1pAEAl0Oug/qNlSdb
+xA5RmR8svt1Nyudo/+g65jgyNip6/Q8=
+=anJh
 -----END PGP SIGNATURE-----
